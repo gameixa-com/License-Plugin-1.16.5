@@ -1,0 +1,4 @@
+name: Sofixa-License-Plugin-1.16.5
+version: '${project.version}'
+main: com.sofixa.license.Main
+api-version: 1.16
