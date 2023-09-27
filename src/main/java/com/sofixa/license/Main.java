@@ -17,7 +17,7 @@ import org.json.JSONObject;
 
 public class Main extends JavaPlugin {
 
-    private static final String API_URL = "https://www.quteriumproject.com/app/api/license.php?product=3&ip=";
+    private static final String API_URL = "api_url";
 
     @Override
     public void onEnable() {
